@@ -65,3 +65,6 @@ ICT student specializing in Application Development at Cape Peninsula University
 *Role:* Takealot Seller  
 *Phone:* 0768558937  
 *Email:* getrudeburi1@gmail.com
+
+## Mock Interview Video 
+[Click here to watch my Mock Interview Video](https://drive.google.com/file/d/1MC4up_7h3XQiveoT376oMqSz0YZrx2JQ/view?usp=drive_link)
