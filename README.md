@@ -67,4 +67,4 @@ ICT student specializing in Application Development at Cape Peninsula University
 *Email:* getrudeburi1@gmail.com
 
 ## Mock Interview Video 
-[Click here to watch my Mock Interview Video](https://drive.google.com/file/d/1MC4up_7h3XQiveoT376oMqSz0YZrx2JQ/view?usp=drive_link)
+[Click here to watch my Mock Interview Video](./mock interview video.mp4)
